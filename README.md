@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harry Hayfron-Benjamin
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning C#,SQL and JAVA/JAVA SCRIPT
-- 💞️ I’m looking to collaborate on Sofware Project to grow my portfolio and experience
+- 👀 I’m interested in the cloud
+- 🌱 I’m currently learning AWS, Google cloud and Oracle 
+- 💞️ I’m looking to collaborate on cloud Projects to grow my portfolio and experience
 - 📫 You reach me on Instagram @_harry_hb or Harry A. Hayfron-Benjamin jr on Facebook
 
 <!---
